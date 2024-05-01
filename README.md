@@ -11,4 +11,5 @@ Frameworks and libraries I use in the application;
 - React Hot Toast
 
 <h2> Screenshot</h2>
+
 ![](1.gif)
